@@ -22,7 +22,7 @@ IEEE Transactions on Image Processing (TIP), 2023. \[[PDF](https://ieeexplore.ie
 
 - Joint Contrastive Triple-learning for Deep Multi-view Clustering.
 Shizhe Hu, Guoliang Zou, Chaoyang Zhang, **Zhengzheng Lou**, Ruilin Geng and Yangdong Ye*.  
-Information Processing and Management (IPM), 2023.  
+Information Processing and Management (IPM), 2023. \[[Code](https://github.com/ShizheHu/IPM23_Code_Joint-Contrastive-Triple-learning)\]
 
 - Multi-view Clustering with Propagating Information Bottleneck.  
 Shizhe Hu, Zenglin Shi, Xiaoqiang Yan, **Zhengzheng Lou**, and Yangdong Ye*.  
@@ -34,11 +34,11 @@ Briefings in bioinformatics, 2022.(IF: 13.994)
 
 - View-wise VS Cluster-wise Weight: Which Is Better for Multi-view Clustering?  
 Shizhe Hu, **Zhengzheng Lou**, and Yangdong Ye*.  
-IEEE Transactions on Image Processing (TIP), 2022.  
+IEEE Transactions on Image Processing (TIP), 2022. \[[PDF](https://github.com/ShizheHu/IPM23_Code_Joint-Contrastive-Triple-learning)\] 
 
 - Multi-view Content-Context Information Bottleneck for Image Clustering.  
 Shizhe Hu, Bo Wang, **Zhengzheng Lou**, Yangdong Ye*.  
-Expert Systems With Applications, 2021.  
+Expert Systems With Applications, 2021. \[[PDF](https://github.com/ShizheHu/IPM23_Code_Joint-Contrastive-Triple-learning)\] 
 
 - Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization.  
 Xiaoqiang Yan, **Zhengzheng Lou**, Shizhe Hu, Yangdong Ye.  
@@ -50,11 +50,11 @@ Water, 2018.(Highly cited.)
 
 - Unsupervised video categorization based on multivariate information bottleneck method.  
 Xiaoqiang Yan,Yangdong Ye, **Zhengzheng Lou**.  
-Knowledge-Based Systems (KBS), 2015. 
+Knowledge-Based Systems (KBS), 2015. \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S095070511500132X)\]
 
 - Incorporating side information into multivariate Information Bottleneck for generating alternative clusterings.  
 Yangdong Ye, Ruina Liu, **Zhengzheng Lou**.  
-Pattern Recognition Letters (PRL), 2015.
+Pattern Recognition Letters (PRL), 2015. \[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S095070511500132X)\]
 
 
 ### Conference
