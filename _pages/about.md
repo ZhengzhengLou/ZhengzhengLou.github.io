@@ -76,11 +76,11 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2013.
 
 - Information Bottleneck with Local Consistency.  
 **Zhengzheng Lou**, Yangdong Ye, Zhenfeng Zhu.  
-Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2012.  
+Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2012. \[[PDF](https://link.springer.com/chapter/10.1007/978-3-642-32695-0_27)\]
 
 - Unsupervised Object Category Discovery via Information Bottleneck Method.  
 **Zhengzheng Lou**, Yangdong Ye, Dong Liu.  
-ACM Multimedia (ACM MM), 2010.
+ACM Multimedia (ACM MM), 2010. \[[PDF](https://www5.zzu.edu.cn/__local/D/D4/D8/2256AAE5E94748EC29E7D20FD2B_DD66DAB4_79327.pdf)\]
 
 
 ### Chinese Journal
