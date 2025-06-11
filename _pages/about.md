@@ -7,4 +7,4 @@ author_profile: true
 
 ## About
 ---
-Here is
+I received the PhD degree from Zhengzhou University in 2014.I am currently an associate professor in the School of Information Engineering at \[[Zhengzhou University](https://www.zzu.edu.cn/)\].
