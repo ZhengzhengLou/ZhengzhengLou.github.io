@@ -18,7 +18,7 @@ Briefings in bioinformatics, 2024.
 
 - Multi-View Clustering via Triplex Information Maximization.  
 Chaoyang Zhang, **Zhengzheng Lou**, Qinglei Zhou and Shizhe Hu*.  
-IEEE Transactions on Image Processing (TIP), 2023.
+IEEE Transactions on Image Processing (TIP), 2023. \[[PDF](https://ieeexplore.ieee.org/document/10194552)\]
 
 - Joint Contrastive Triple-learning for Deep Multi-view Clustering.
 Shizhe Hu, Guoliang Zou, Chaoyang Zhang, **Zhengzheng Lou**, Ruilin Geng and Yangdong Ye*.  
