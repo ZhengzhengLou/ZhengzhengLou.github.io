@@ -22,10 +22,10 @@ repository               : "ZhengzhengLou/ZhengzhengLou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Zhengzheng Lou"
   pronouns         : # example: "she/her"  
-  bio              : "images/bio-photo.jpg"
+  bio              : ""
   location         : "Zhengzhou, China"
   employer         : "Zhengzhou University"
   uri              : # URL
