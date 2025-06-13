@@ -7,8 +7,7 @@ author_profile: true
 
 ## About
 ---
-He is currently an associate professor in [Zhengzhou University](https://www.zzu.edu.cn/) of School of Computer and Artificial Intelligence. He received PhD degree in School of Information Engineering from Zhengzhou
-University. His main research interests include machine learning and information bottleneck theory. He has published several papers in peer-reviewed prestigious journals and conferences, such as IEEE TPAMI, TIP, IJCAI, and ACM MM. He serves as the reviewer for many journals, such as IEEE TCYB.
+He is currently an associate professor in Zhengzhou University of School of Computer and Artificial Intelligence. He received PhD degree in School of Information Engineering from Zhengzhou University. His main research interests include machine learning and information bottleneck theory. He has published several papers in peer-reviewed prestigious journals and conferences, such as IEEE TPAMI, TIP, IJCAI, and ACM MM. He serves as the reviewer for many journals, such as IEEE TCYB.
 
 ## Publications
 ---
