@@ -7,11 +7,16 @@ author_profile: true
 
 ## About
 ---
-I received the PhD degree from Zhengzhou University in 2014. I am currently an associate professor in the School of Information Engineering at [Zhengzhou University](https://www.zzu.edu.cn/).
+He is currently an associate professor in [Zhengzhou University](https://www.zzu.edu.cn/) of School of Computer and Artificial Intelligence. He received PhD degree in School of Information Engineering from Zhengzhou
+University. His main research interests include machine learning and information bottleneck theory. He has published several papers in peer-reviewed prestigious journals and conferences, such as IEEE TPAMI, TIP, IJCAI, and ACM MM. He serves as the reviewer for many journals, such as IEEE TCYB.
 
 ## Publications
 ---
 ### Journal
+- Parameter-free Deep Multi-modal Clustering with Reliable Contrastive Learning.  
+**Zhengzheng Lou**, Hang Xue, Yanzheng Wang, Chaoyang Zhang, Xin Yang, and Shizhe Hu*.   
+IEEE Transactions on Image Processing (TIP), 2025. \[[PDF](https://ieeexplore.ieee.org/document/10975134)\]
+
 - Clustering scRNA-seq data with the cross-view collaborative information fusion strategy.  
 **Zhengzheng Lou**, Xiaojiao Wei, Yuanhao Hu, Shizhe Hu, Yucong Wu, Zhen Tian*.  
 Briefings in bioinformatics, 2024.  
@@ -58,6 +63,14 @@ Pattern Recognition Letters (PRL), 2015. \[[PDF](https://www.sciencedirect.com/s
 
 
 ### Conference
+- A Peer-review Look on Multi-modal Clustering: An Information Bottleneck Realization Method.  
+**Zhengzheng Lou**, Hang Xue, Chaoyang Zhang, Shizhe Hu*.  
+Forty-second International Conference on Machine Learning (ICML), 2025.
+
+- Super Deep Contrastive Information Bottleneck for Multi-modal Clustering.  
+**Zhengzheng Lou**, Ke Zhang, Yucong Wu, Shizhe Hu*.   
+Forty-second International Conference on Machine Learning (ICML), 2025.
+
 - Self-supervised Weighted Information Bottleneck for Multi-view Clustering.  
 **Zhengzheng Lou#**, Chaoyang Zhang#, Hang Xue, Yangdong Ye, Qinglei Zhou, Shizhe Hu*.  
 International Joint Conference on Artificial Intelligence (IJCAI), 2024.  
