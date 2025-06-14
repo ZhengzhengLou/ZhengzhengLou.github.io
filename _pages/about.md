@@ -7,7 +7,7 @@ author_profile: true
 
 ## About
 ---
-He is currently an associate professor in Zhengzhou University of School of Computer and Artificial Intelligence. He received PhD degree in School of Information Engineering from Zhengzhou University. His main research interests include machine learning and information bottleneck theory. He has published several papers in peer-reviewed prestigious journals and conferences, such as IEEE TPAMI, TIP, IJCAI, and ACM MM. He serves as the reviewer for many journals, such as IEEE TCYB.
+He is currently an associate professor in Zhengzhou University of School of Computer and Artificial Intelligence. He received PhD degree in School of Information Engineering from Zhengzhou University. His main research interests include machine learning and information bottleneck theory. He has published several papers in peer-reviewed prestigious journals and conferences, such as IEEE TPAMI, TIP, ICML, IJCAI, and ACM MM. This is his \[[Chinese website](https://www7.zzu.edu.cn/csai/info/1054/1363.htm)\].
 
 ## Publications
 ---
@@ -96,8 +96,8 @@ ACM Multimedia (ACM MM), 2010. \[[PDF](https://www5.zzu.edu.cn/__local/D/D4/D8/2
 
 
 ### Chinese Journal
-- **娄铮铮**，张万闯，吴云鹏: 光斑密度峰值的毫米波雷达目标检测. 小型微型计算机系统, 2024, 已录用.
 - **娄铮铮**，朱军娇，张万闯，吴宾: 用户生成内容场景下角色导向图神经推荐方法. 计算机学报, 2024, 已录用.
+- **娄铮铮**，张万闯，吴云鹏: 光斑密度峰值的毫米波雷达目标检测. 小型微型计算机系统, 2024, 已录用.
 - 鲁博仁，胡世哲，**娄铮铮**，叶阳东: 面向铁路文本分类的字符级特征提取方法. 计算机科学，2020，已录用.
 - 胡世哲，**娄铮铮**，王若彬，闫小强，叶阳东: 一种双重加权的多视角聚类方法. 计算机学报，2020，已录用.
 - 吴宾，**娄铮铮**，叶阳东: 联合正则化的矩阵分解推荐算法. 软件学报，2018, 29(09):2681-2696.
